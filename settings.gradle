@@ -1,0 +1,3 @@
+rootProject.name = "FTC"
+include ':TeamCode'
+include ':MeepMeepTesting'
